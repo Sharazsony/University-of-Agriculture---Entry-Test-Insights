@@ -9,5 +9,7 @@ Total Students Analysis: Displays the number of students who appeared in the tes
 Score Distribution: Shows the average, highest, and lowest marks.
 
 Geographical Participation: Breakdown of students by city using a bar chart.
+![WhatsApp Image 2025-03-22 at 05 05 29_18cce8b7](https://github.com/user-attachments/assets/2b4674b3-8d5a-456d-93ef-69e94cfe90c2)
+
 
 Academic Background: Pie chart representing students' education streams (Biology, ICS, FSC, Others).
